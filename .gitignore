@@ -1,3 +1,2 @@
-/.idea/
+# Project exclude paths
 /target/
-/epam-dataengeneers-spark-java.iml
